@@ -29,12 +29,32 @@ This repository has information that was presented at on October 18, 2018 to the
 
 # Resources on Data Management and Research Reproducibility:
 
+#### **General:**
 [UC Berkeley](http://guides.lib.berkeley.edu/c.php?g=652220&p=4574980)
 
 [Innovation for Poverty Research](https://www.poverty-action.org/sites/default/files/publications/IPA%27s%20Best%20Practices%20for%20Data%20and%20Code%20Management_Nov2015.pdf)
 
 [Importance of Commenting and Documenting in Code](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525)
 
+
+#### **Producing Publication-Ready Tables and Graphs:**
+[General Tips](https://www.editage.com/insights/tips-on-effective-use-of-tables-and-figures-in-research-papers)
+
+[General Tips for Graphics](https://thepoliticalmethodologist.com/2013/11/25/making-high-resolution-graphics-for-academic-publishing/)
+
+[LaTeX for R](https://stackoverflow.com/questions/5465314/tools-for-making-latex-tables-in-r)
+
+[Word Tables in R](https://dmyee.files.wordpress.com/2016/03/table_workshop.pdf)
+
+[Intro to ggplot2 in R](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
+[Graphics for SAS](https://www.ssc.wisc.edu/sscc/pubs/4-21.htm)
+
+[Tables in Stata](https://www.ssc.wisc.edu/sscc/pubs/stata_tables.htm)
+
+[Tables in Stata Pt. 2](http://chrisauld.com/2011/10/05/tips-on-estimating-models-and-producing-publication-ready-tables-using-stata/)
+
+[Kieran Healy's Wonderful Tips to Data Management and Visualizations](https://kieranhealy.org/resources/)
 
 
 # Resources on Software Packages:
