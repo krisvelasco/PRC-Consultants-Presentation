@@ -15,6 +15,8 @@ This repository has information that was presented at on October 18, 2018 to the
 
 [U.S. Government](https://www.data.gov)
 
+[CDC WISQARS](https://www.cdc.gov/injury/wisqars/index.html)
+
 
 
 # Pre-Established Dataset Resources:
