@@ -66,11 +66,24 @@ This repository has information that was presented at on October 18, 2018 to the
 [Statistics and Data Science Department @ UT-Austin](https://stat.utexas.edu/training/software-tutorials)
 
 
+# Jupyter Notebook:
+[Beginners Guide](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
+[How to run R in Jupyter Notebook](https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
+
+[How to run Stata in Jupyter Notebook](https://github.com/TiesdeKok/ipystata)
+
+[How to run Jupyter Notebook Slideshow](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67)
+
 
 # Where to Look for Answers:
 
 [Stack Overflow](https://stackoverflow.com)
 
 [GitHub](https://github.com/explore)
+
+
+
+
 
 
