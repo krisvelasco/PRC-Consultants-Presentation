@@ -69,7 +69,7 @@ This repository has information that was presented at on October 18, 2018 to the
 # Jupyter Notebook:
 [Beginners Guide](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
-[How to run R in Jupyter Notebook](https://discuss.analyticsvidhya.com/t/how-to-run-r-on-jupyter-ipython-notebooks/5512/2)
+[How to run R in Jupyter Notebook](https://www.linkedin.com/pulse/interfacing-r-from-python-3-jupyter-notebook-jared-stufft)
 
 [How to run Stata in Jupyter Notebook](https://github.com/TiesdeKok/ipystata)
 
