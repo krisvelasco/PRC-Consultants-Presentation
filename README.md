@@ -54,6 +54,8 @@ This repository has information that was presented at on October 18, 2018 to the
 
 [Tables in Stata Pt. 2](http://chrisauld.com/2011/10/05/tips-on-estimating-models-and-producing-publication-ready-tables-using-stata/)
 
+[PutDocx for Stata](https://www.stata.com/stata-news/news32-3/spotlight-putdocx/)
+
 [Kieran Healy's Wonderful Tips to Data Management and Visualizations](https://kieranhealy.org/resources/)
 
 
